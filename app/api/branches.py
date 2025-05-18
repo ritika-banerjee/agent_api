@@ -5,7 +5,7 @@ from app.core.resolver import resolve_property
 router = APIRouter()
 kb = load_kb()
 
-@router.get("")
+@router.get("/")
 def list_branches(city: str = None):
     branches = kb["branches"]
     if city:
