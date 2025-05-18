@@ -5,7 +5,7 @@ from app.core.kb_loader import load_kb
 
 router = APIRouter()
 
-@router.post("")
+@router.post("/validate-number")
 def validate_number(req: Number):
     num = req.number
     
