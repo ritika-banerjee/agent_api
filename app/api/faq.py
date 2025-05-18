@@ -1,5 +1,5 @@
 from fastapi import APIRouter, Query
-from app.core.faiss_index import search_faq
+from core.faiss_index import search_faq
 
 router = APIRouter()
 

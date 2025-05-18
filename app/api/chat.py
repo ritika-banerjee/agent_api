@@ -1,9 +1,9 @@
 from fastapi import APIRouter
-from app.models.chat import ChatRequest
-from app.core.faiss_index import search_faq
-from app.core.kb_loader import load_kb
-from app.core.resolver import resolve_property
-from app.api.menu import get_menu_data
+from models.chat import ChatRequest
+from core.faiss_index import search_faq
+from core.kb_loader import load_kb
+from core.resolver import resolve_property
+from api.menu import get_menu_data
 
 router = APIRouter()
 kb = load_kb()

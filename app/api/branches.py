@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException
-from app.core.kb_loader import load_kb
-from app.core.resolver import resolve_property
+from core.kb_loader import load_kb
+from core.resolver import resolve_property
 
 router = APIRouter()
 kb = load_kb()

@@ -1,7 +1,7 @@
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
-from app.core.kb_loader import load_kb
+from core.kb_loader import load_kb
 
 kb = load_kb()
 faqs = kb["drinks_menu_faq"]

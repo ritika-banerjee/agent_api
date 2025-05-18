@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException
-from app.models.booking import BookingRequest
-from app.core.resolver import resolve_property
+from models.booking import BookingRequest
+from core.resolver import resolve_property
 import uuid
 
 router = APIRouter()

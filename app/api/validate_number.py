@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException
-from app.models.val_num import Number
-from app.core.kb_loader import load_kb
+from models.val_num import Number
+from core.kb_loader import load_kb
 
 
 router = APIRouter()
