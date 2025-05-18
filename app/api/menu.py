@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from core.kb_loader import load_kb
+from app.core.kb_loader import load_kb
 
 router = APIRouter()
 kb = load_kb()

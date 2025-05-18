@@ -1,7 +1,7 @@
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
-from core.kb_loader import load_kb
+from app.core.kb_loader import load_kb
 
 model = None
 index = None

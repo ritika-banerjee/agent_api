@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from api import branches, menu, faq, booking, chat, validate_number
+from app.api import branches, menu, faq, booking, chat, validate_number
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
