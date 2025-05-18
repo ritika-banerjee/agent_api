@@ -1,0 +1,1080 @@
+{
+    "branches": [
+        {
+            "property": "bbq_cp_delhi",
+            "display_name": "Barbeque Nation, Connaught Place - New Delhi",
+            "address_info": {
+                "address": "Munshilal Building, 2nd Floor, N-19, Block N, Connaught Place, New Delhi, Delhi 110001, India",
+                "landmark": "Connaught Place",
+                "city": "New Delhi",
+                "pincode": "110001",
+                "contact_numbers": [
+                    "7042698057",
+                    "8130244992",
+                    "8470015488"
+                ],
+                "bar": true,
+                "valet_parking": {
+                    "available": false,
+                    "type": "assisted",
+                    "chargeable": false,
+                    "notes": "Parking assistance available"
+                },
+                "lift_available": true,
+                "baby_chair": false
+            },
+            "timings": {
+                "monday_to_friday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:30 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "12:00 AM"
+                    }
+                },
+                "saturday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:30 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "12:00 AM"
+                    }
+                },
+                "sunday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:30 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "12:00 AM"
+                    }
+                }
+            },
+            "booking_rules": {
+                "2_plus_1": {
+                    "monday_to_thursday": {
+                        "lunch_slot_1": "Flexible",
+                        "lunch_slot_2": "Take till last entry",
+                        "dinner_slot_1": "Take till 07:00 PM",
+                        "dinner_slot_2": "Take till last entry"
+                    },
+                    "friday_to_sunday": {
+                        "lunch_slot_1": "Take till 12:30 PM",
+                        "lunch_slot_2": "Take till last entry",
+                        "dinner_slot_1": "Take till 07:00 PM",
+                        "dinner_slot_2": "Take till last entry"
+                    }
+                },
+                "3_and_above": {
+                    "monday_to_thursday": {
+                        "lunch_slot_1": "Flexible",
+                        "lunch_slot_2": "Take till last entry",
+                        "dinner_slot_1": "Take till 07:00 PM",
+                        "dinner_slot_2": "Take till last entry"
+                    },
+                    "friday_to_sunday": {
+                        "lunch_slot_1": "Take till 12:30 PM",
+                        "lunch_slot_2": "Take till last entry",
+                        "dinner_slot_1": "Take till 07:00 PM",
+                        "dinner_slot_2": "Take till last entry"
+                    }
+                }
+            },
+            "amenities": {
+                "pdr_available": true,
+                "pdr_capacity": "25",
+                "pdr_minimum_pax_required": "20"
+            },
+            "offers": {
+                "early_bird": false,
+                "kitty_party": false,
+                "student_offer": false,
+                "buffet_5_plus_1": false,
+                "army_offer": false,
+                "drinks_offer": false,
+                "complimentary_drinks": {
+                    "available": true,
+                    "details": "1 round of soft drink or mocktail available during Monday to Friday lunch"
+                },
+                "food_festival": false
+            },
+            "alerts": [],
+            "nearby_outlets": [
+                {
+                    "name": "New Friends Colony",
+                    "distance_km": 13.0,
+                    "address": "Shop No 57A, 1st Floor, Community Center, near Modi Enterprises, New Friends Colony, New Delhi, Delhi 110025"
+                }
+            ]
+        },
+        {
+            "property": "bbq_electronic_city",
+            "display_name": "Barbeque Nation, Electronic City - Bangalore",
+            "address_info": {
+                "address": "99, 14th Cross Road, Neeladri Nagar, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",
+                "landmark": "Neeladri Nagar, Electronic City Phase 1",
+                "city": "Bangalore",
+                "pincode": "560100",
+                "contact_numbers": [
+                    "7090757059",
+                    "7090757126"
+                ],
+                "bar": false,
+                "valet_parking": {
+                    "available": true,
+                    "type": "self or valet",
+                    "chargeable": true,
+                    "notes": "Self-parking available; valet is chargeable if offered"
+                },
+                "lift_available": true,
+                "baby_chair": true
+            },
+            "timings": {
+                "monday_to_friday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:30 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "11:55 PM"
+                    }
+                },
+                "saturday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:30 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "11:55 PM"
+                    }
+                },
+                "sunday": {
+                    "lunch": {
+                        "open": "11:00 AM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:30 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "11:55 PM"
+                    }
+                }
+            },
+            "booking_rules": {
+                "2_plus_1": {
+                    "lunch_slot_1": "Flexible",
+                    "lunch_slot_2": "Take till last entry",
+                    "dinner_slot_1": "Flexible",
+                    "dinner_slot_2": "Take till last entry"
+                },
+                "3_and_above": {
+                    "lunch_slot_1": "Flexible",
+                    "lunch_slot_2": "Take till last entry",
+                    "dinner_slot_1": "Flexible",
+                    "dinner_slot_2": "Take till last entry"
+                }
+            },
+            "amenities": {
+                "pdr_available": false,
+                "pdr_capacity": "NA",
+                "pdr_minimum_pax_required": "NA"
+            },
+            "offers": {
+                "early_bird": false,
+                "kitty_party": false,
+                "student_offer": false,
+                "buffet_5_plus_1": false,
+                "army_offer": false,
+                "drinks_offer": false,
+                "complimentary_drinks": {
+                    "available": true,
+                    "details": "1 round of soft drink or mocktail available from Monday to Saturday Lunch"
+                },
+                "food_festival": false
+            },
+            "alerts": [],
+            "nearby_outlets": []
+        },
+        {
+            "property": "bbq_indiranagar",
+            "display_name": "Barbeque Nation, Indiranagar - Bangalore",
+            "address_info": {
+                "address": "No.4005, HAL 2nd stage, 100 feet road, Indiranagar, Bangalore- 560038",
+                "landmark": "100 Feet Road, Indiranagar",
+                "city": "Bangalore",
+                "pincode": "560038",
+                "contact_numbers": [
+                    "7090757068",
+                    "7892263996"
+                ],
+                "bar": true,
+                "valet_parking": {
+                    "available": true,
+                    "type": "self or valet",
+                    "chargeable": false,
+                    "notes": "Self-parking available; valet is available"
+                },
+                "lift_available": true,
+                "baby_chair": true
+            },
+            "timings": {
+                "monday_to_friday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:30 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "11:55 PM"
+                    }
+                },
+                "saturday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:30 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "11:55 PM"
+                    }
+                },
+                "sunday": {
+                    "lunch": {
+                        "open": "11:00 AM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:30 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "11:55 PM"
+                    }
+                }
+            },
+            "booking_rules": {
+                "2_plus_1": {
+                    "lunch_slot_1": "Flexible",
+                    "lunch_slot_2": "Take till last entry",
+                    "dinner_slot_1": "Flexible",
+                    "dinner_slot_2": "Take till last entry"
+                },
+                "3_and_above": {
+                    "lunch_slot_1": "Flexible",
+                    "lunch_slot_2": "Take till last entry",
+                    "dinner_slot_1": "Flexible",
+                    "dinner_slot_2": "Take till last entry"
+                }
+            },
+            "amenities": {
+                "pdr_available": false,
+                "pdr_capacity": "NA",
+                "pdr_minimum_pax_required": "NA"
+            },
+            "offers": {
+                "early_bird": false,
+                "kitty_party": false,
+                "student_offer": false,
+                "buffet_5_plus_1": false,
+                "army_offer": false,
+                "drinks_offer": false,
+                "complimentary_drinks": {
+                    "available": true,
+                    "details": "1 round of soft drink or mocktail available from Monday to Saturday Lunch"
+                },
+                "food_festival": false
+            },
+            "alerts": [
+                {
+                    "message": "Closed on 2nd October due to Gandhi Jayanthi. Suggest nearby locations.",
+                    "date": "2024-10-02"
+                }
+            ],
+            "nearby_outlets": [
+                {
+                    "name": "Lido Mall, MG Road",
+                    "distance_km": 4.1,
+                    "address": "1/4, Ground Floor, Lido Mall, Swami Vivekananda Road, Halasuru, Bengaluru, Karnataka 560008"
+                },
+                {
+                    "name": "Koramangala 7th Block",
+                    "distance_km": 5.8,
+                    "address": "118, 1st Floor, 80 Feet Rd, KHB Colony, 7th Block, Koramangala, Bengaluru"
+                }
+            ]
+        },
+        {
+            "property": "bbq_janakpuri_delhi",
+            "display_name": "Barbeque Nation, Unity Mall - Janakpuri, New Delhi",
+            "address_info": {
+                "address": "Unity One, 2nd Floor, Narang Colony, Chander Nagar, Janakpuri, New Delhi, Delhi 110058",
+                "landmark": "Unity Mall, Janakpuri",
+                "city": "New Delhi",
+                "pincode": "110058",
+                "contact_numbers": [
+                    "9810445315",
+                    "9311177719",
+                    "7827935431"
+                ],
+                "bar": true,
+                "valet_parking": {
+                    "available": true,
+                    "type": "self/mall",
+                    "chargeable": true,
+                    "notes": "Self or mall parking; may be chargeable"
+                },
+                "lift_available": true,
+                "baby_chair": false
+            },
+            "timings": {
+                "monday_to_friday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:00 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "12:00 AM"
+                    }
+                },
+                "saturday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:00 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "12:00 AM"
+                    }
+                },
+                "sunday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:00 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "12:00 AM"
+                    }
+                }
+            },
+            "booking_rules": {
+                "2_plus_1": {
+                    "monday_to_sunday": {
+                        "lunch_slot_1": "Flexible",
+                        "lunch_slot_2": "Take till last entry",
+                        "dinner_slot_1": "Flexible",
+                        "dinner_slot_2": "Take till last entry"
+                    }
+                },
+                "3_and_above": {
+                    "monday_to_sunday": {
+                        "lunch_slot_1": "Flexible",
+                        "lunch_slot_2": "Take till last entry",
+                        "dinner_slot_1": "Flexible",
+                        "dinner_slot_2": "Take till last entry"
+                    }
+                }
+            },
+            "amenities": {
+                "pdr_available": false,
+                "pdr_capacity": "NA",
+                "pdr_minimum_pax_required": "NA"
+            },
+            "offers": {
+                "early_bird": false,
+                "kitty_party": true,
+                "student_offer": true,
+                "buffet_5_plus_1": false,
+                "army_offer": false,
+                "drinks_offer": false,
+                "complimentary_drinks": {
+                    "available": true,
+                    "details": "1 round of soft drink or mocktail available during Monday to Friday lunch"
+                },
+                "food_festival": false
+            },
+            "alerts": [
+                {
+                    "message": "Lunch closed on 14th March 2025 due to Holi. Suggest dinner for any booking.",
+                    "date": "2025-03-14"
+                }
+            ],
+            "nearby_outlets": [
+                {
+                    "name": "Rajouri Garden",
+                    "distance_km": 6.3,
+                    "address": "A2/41, 3rd Floor, Rajouri Garden, New Delhi 110027"
+                },
+                {
+                    "name": "Paschim Vihar",
+                    "distance_km": 7.8,
+                    "address": "3rd Floor, Emaya Mall, New Delhi 110063"
+                }
+            ]
+        },
+        {
+            "property": "bbq_jp_nagar",
+            "display_name": "Barbeque Nation, JP Nagar - Bangalore",
+            "address_info": {
+                "address": "67, 3rd Floor, 6th B Main, Phase III, J P Nagar, Bengaluru, Karnataka 560078, India",
+                "landmark": "JP Nagar, Phase 3",
+                "city": "Bangalore",
+                "pincode": "560078",
+                "contact_numbers": [
+                    "7090757107",
+                    "7353535557"
+                ],
+                "bar": true,
+                "valet_parking": {
+                    "available": false,
+                    "type": "assisted",
+                    "chargeable": false,
+                    "notes": "Self-parking or parking assistance available"
+                },
+                "lift_available": true,
+                "baby_chair": true
+            },
+            "timings": {
+                "monday_to_friday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:30 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "11:55 PM"
+                    }
+                },
+                "saturday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:30 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "11:55 PM"
+                    }
+                },
+                "sunday": {
+                    "lunch": {
+                        "open": "11:00 AM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:30 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "11:55 PM"
+                    }
+                }
+            },
+            "booking_rules": {
+                "2_plus_1": {
+                    "lunch_slot_1": "Flexible",
+                    "lunch_slot_2": "Take till last entry",
+                    "dinner_slot_1": "Flexible",
+                    "dinner_slot_2": "Take till last entry"
+                },
+                "3_and_above": {
+                    "lunch_slot_1": "Flexible",
+                    "lunch_slot_2": "Take till last entry",
+                    "dinner_slot_1": "Flexible",
+                    "dinner_slot_2": "Take till last entry"
+                }
+            },
+            "amenities": {
+                "pdr_available": false,
+                "pdr_capacity": "NA",
+                "pdr_minimum_pax_required": "NA"
+            },
+            "offers": {
+                "early_bird": false,
+                "kitty_party": false,
+                "student_offer": false,
+                "buffet_5_plus_1": false,
+                "army_offer": false,
+                "drinks_offer": false,
+                "complimentary_drinks": {
+                    "available": true,
+                    "details": "1 round of soft drink or mocktail available from Monday to Saturday Lunch"
+                },
+                "food_festival": false
+            },
+            "alerts": [
+                {
+                    "message": "Closed on 2nd October due to Gandhi Jayanthi. Suggest nearby locations.",
+                    "date": "2024-10-02"
+                }
+            ],
+            "nearby_outlets": [
+                {
+                    "name": "Gopalan Mall JP Nagar",
+                    "distance_km": 1.2,
+                    "address": "Gopalan Innovation Mall, 2nd floor,3rd phas,e Jp nagar, Bennerghatta Road, Bangalore 560076 Karnataka"
+                },
+                {
+                    "name": "Koramangala 7th Block",
+                    "distance_km": 6.0,
+                    "address": "118, 1st Floor, 80 Feet Rd, KHB Colony, 7th Block, Koramangala, Bengaluru"
+                }
+            ]
+        },
+        {
+            "property": "bbq_koromangala_1st_block",
+            "display_name": "Barbeque Nation, 1st Block Koramangala - Bangalore",
+            "address_info": {
+                "address": "1st Cross Rd, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034, India",
+                "landmark": "JP Nagar, Phase 3",
+                "city": "Bangalore",
+                "pincode": "560078",
+                "contact_numbers": [
+                    "9071399811",
+                    "9071772467"
+                ],
+                "bar": true,
+                "valet_parking": {
+                    "available": false,
+                    "type": "assisted",
+                    "chargeable": false,
+                    "notes": "Self-parking or parking assistance available"
+                },
+                "lift_available": true,
+                "baby_chair": true
+            },
+            "timings": {
+                "monday_to_friday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:30 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "11:55 PM"
+                    }
+                },
+                "saturday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:30 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "11:55 PM"
+                    }
+                },
+                "sunday": {
+                    "lunch": {
+                        "open": "11:00 AM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:30 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "11:55 PM"
+                    }
+                }
+            },
+            "booking_rules": {
+                "2_plus_1": {
+                    "lunch_slot_1": "Flexible",
+                    "lunch_slot_2": "Take till last entry",
+                    "dinner_slot_1": "Flexible",
+                    "dinner_slot_2": "Take till last entry"
+                },
+                "3_and_above": {
+                    "lunch_slot_1": "Flexible",
+                    "lunch_slot_2": "Take till last entry",
+                    "dinner_slot_1": "Flexible",
+                    "dinner_slot_2": "Take till last entry"
+                }
+            },
+            "amenities": {
+                "pdr_available": false,
+                "pdr_capacity": "NA",
+                "pdr_minimum_pax_required": "NA"
+            },
+            "offers": {
+                "early_bird": false,
+                "kitty_party": false,
+                "student_offer": false,
+                "buffet_5_plus_1": false,
+                "army_offer": false,
+                "drinks_offer": false,
+                "complimentary_drinks": {
+                    "available": true,
+                    "details": "1 round of soft drink or mocktail available from Monday to Saturday Lunch"
+                },
+                "food_festival": false
+            },
+            "alerts": [
+                {
+                    "message": "Closed on 2nd October due to Gandhi Jayanthi. Suggest nearby locations.",
+                    "date": "2024-10-02"
+                }
+            ],
+            "nearby_outlets": [
+                {
+                    "name": "Indiranagar",
+                    "distance_km": 5.9,
+                    "address": "No.4005, HAL 2nd stage, 100 feet road, Indiranagar, Bangalore- 560038"
+                },
+                {
+                    "name": "Koramangala 7th Block",
+                    "distance_km": 3.7,
+                    "address": "118, 1st Floor, 80 Feet Rd, KHB Colony, 7th Block, Koramangala, Bengaluru"
+                }
+            ]
+        },
+        {
+            "property": "bbq_vasant_kunj_delhi",
+            "display_name": "Barbeque Nation, Sector C - Vasant Kunj, New Delhi",
+            "address_info": {
+                "address": "Plot No. 11, Local Shopping Center, Pyramid Building, Pocket 7, Sector C, Vasant Kunj, New Delhi, Delhi 110070",
+                "landmark": "Vasant Kunj, Sector C",
+                "city": "New Delhi",
+                "pincode": "110070",
+                "contact_numbers": [
+                    "9717455633",
+                    "9717466433",
+                    "7303094054"
+                ],
+                "bar": true,
+                "valet_parking": {
+                    "available": false,
+                    "type": "assisted",
+                    "chargeable": false,
+                    "notes": "Parking assistance available"
+                },
+                "lift_available": false,
+                "baby_chair": false
+            },
+            "timings": {
+                "monday_to_friday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:00 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "12:00 AM"
+                    }
+                },
+                "saturday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:00 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "12:00 AM"
+                    }
+                },
+                "sunday": {
+                    "lunch": {
+                        "open": "12:00 PM",
+                        "last_entry": "04:00 PM",
+                        "close": "05:00 PM"
+                    },
+                    "dinner": {
+                        "open": "06:00 PM",
+                        "last_entry": "11:00 PM",
+                        "close": "12:00 AM"
+                    }
+                }
+            },
+            "booking_rules": {
+                "2_plus_1": {
+                    "monday_to_sunday": {
+                        "lunch_slot_1": "Flexible",
+                        "lunch_slot_2": "Take till last entry",
+                        "dinner_slot_1": "Flexible",
+                        "dinner_slot_2": "Take till last entry"
+                    }
+                },
+                "3_and_above": {
+                    "monday_to_sunday": {
+                        "lunch_slot_1": "Flexible",
+                        "lunch_slot_2": "Take till last entry",
+                        "dinner_slot_1": "Flexible",
+                        "dinner_slot_2": "Take till last entry"
+                    }
+                }
+            },
+            "amenities": {
+                "pdr_available": false,
+                "pdr_capacity": "NA",
+                "pdr_minimum_pax_required": "NA"
+            },
+            "offers": {
+                "early_bird": true,
+                "kitty_party": true,
+                "student_offer": true,
+                "buffet_5_plus_1": false,
+                "army_offer": false,
+                "drinks_offer": false,
+                "complimentary_drinks": {
+                    "available": true,
+                    "details": "1 round of soft drink or mocktail available during Monday to Friday lunch"
+                },
+                "food_festival": false
+            },
+            "alerts": [
+                {
+                    "message": "Stop dinner both slots on 27th October due to bulk booking. Suggest nearby location.",
+                    "date": "2024-10-27"
+                }
+            ],
+            "nearby_outlets": [
+                {
+                    "name": "New Friends Colony",
+                    "distance_km": 13.0,
+                    "address": "Shop No 57A, 1st Floor, Community Center, near Modi Enterprises, New Friends Colony, New Delhi, Delhi 110025"
+                }
+            ]
+        }
+    ],
+    "menu": {
+        "veg": {
+            "starter": [
+                "Grill Veg",
+                "Mushroom",
+                "Paneer",
+                "veg kebab",
+                "Cajun Spice Potato",
+                "Pineapple"
+            ],
+            "main_course": [
+                "Noodles",
+                "Oriental Veg",
+                "Paneer",
+                "Aloo",
+                "Veg Kofta",
+                "Veg Dry & Gravy",
+                "Dal Tadka",
+                "Dal Makhani",
+                "Veg Biryani",
+                "Rice"
+            ],
+            "soup": [
+                "Veg Soup"
+            ],
+            "salads": [
+                "Salad Veg - 4 varieties"
+            ],
+            "desserts": [
+                "Angori Gulab Jamun",
+                "Phirnee",
+                "Ice Cream",
+                "Pie/tart",
+                "Fruits",
+                "Pastry",
+                "Brownie",
+                "Pudding/soufflé"
+            ]
+        },
+        "non_veg": {
+            "starter": [
+                "Chicken Tangdi",
+                "Chicken Skewer",
+                "Mutton",
+                "Fish",
+                "Prawns"
+            ],
+            "main_course": [
+                "Non Veg Biryani",
+                "Mutton Curry",
+                "Chicken Curry",
+                "Fish Gravy"
+            ],
+            "soup": [
+                "Non Veg Soup"
+            ],
+            "salads": [
+                "Salad Non Veg"
+            ]
+        }
+    },
+    "drinks_menu_faq": [
+        {
+            "chunk_id": "menu_q1",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Is Jain food available in BBQ nation?",
+            "answer": "Yes, we have Jain food available but the variety is limited. Please inform the outlet team upon arrival. May I proceed with the reservation?",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q2",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Does Barbeque Nation serve Halal food?",
+            "answer": "Yes, Barbeque Nation serves Halal meat in all outlets.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q3",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Do you have any proof or certificate for Halal?",
+            "answer": "Yes, we have Halal certification available at all Barbeque Nation outlets.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q4",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "What is the menu for today?",
+            "answer": "The menu varies daily. You can check the latest menu using the Barbeque Nation app or inquire at the outlet.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q5",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Is outside alcoholic drink allowed in Barbeque Nation outlet?",
+            "answer": "Sorry, outside drinks are not allowed. However, we serve a variety of drinks as per our à la carte menu.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q6",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Can I get the drinks details through mail?",
+            "answer": "Yes, please download the Barbeque Nation app to view the drinks menu or share your email ID so we can send it to you.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q7",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Does Barbeque Nation have à la carte menu for food?",
+            "answer": "We serve unlimited buffet for dine-in. À la carte is available only for takeaway and delivery.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q8",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Can I customize the menu or get a particular dish?",
+            "answer": "Spice level can be adjusted, but additional dishes depend on outlet availability.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q9",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Does menu remain the same across all outlets?",
+            "answer": "Yes, the core menu is standard across all Barbeque Nation outlets.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q10",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "What type of fish does Barbeque Nation serve?",
+            "answer": "We serve boneless BASA fish at all outlets.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q11",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "What type of prawns does Barbeque Nation serve?",
+            "answer": "We serve medium-sized Zinga prawns.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q12",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "What flavors of ice cream are served?",
+            "answer": "Vanilla and strawberry are the available flavors of ice cream.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q13",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "What flavors of Kulfi are available?",
+            "answer": "We serve six flavors of kulfi: Strawberry, Malai, Chocolate, Kesar Badam, Paan, and Mango.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q14",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Is there any change in menu for lunch and dinner?",
+            "answer": "The menu remains the same for both lunch and dinner.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q15",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Do you serve mutton biryani?",
+            "answer": "No, we only serve chicken biryani at Barbeque Nation.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q16",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Do you serve alcoholic drinks?",
+            "answer": "Yes, drinks are served as per the à la carte menu. Please refer to the latest Altius update or check at the outlet.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q17",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Can I have only drinks and pay for that alone?",
+            "answer": "Sorry, drinks cannot be ordered separately. We serve them only with meals.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q18",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Do you serve Kulcha, Roti, Naan?",
+            "answer": "Yes, we serve Kulcha, Roti, and Naan at our outlets.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q19",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Is Pizza available in the menu?",
+            "answer": "Sorry, Pizza is not available in our menu.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q20",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Is Hookah available at Barbeque Nation?",
+            "answer": "Sorry, Hookah is not available at any Barbeque Nation outlet.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q21",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Do you serve Jataka food?",
+            "answer": "No, we do not serve Jataka food at Barbeque Nation.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q22",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "What type of mutton do you serve for starters?",
+            "answer": "We serve mutton seekh kebab for starters.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q23",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Do you serve goat or sheep meat for mutton?",
+            "answer": "We serve goat meat for mutton at Barbeque Nation.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        },
+        {
+            "chunk_id": "menu_q24",
+            "property": "generic",
+            "topic": "menu_and_drinks",
+            "question": "Do you have crab in the menu?",
+            "answer": "Currently, crab is not served. Only fish and prawn are available under seafood.",
+            "tags": [
+                "Enquiry - Menu & Drinks"
+            ]
+        }
+    ]
+}
